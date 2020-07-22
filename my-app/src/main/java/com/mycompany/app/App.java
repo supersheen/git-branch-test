@@ -10,4 +10,10 @@ public class App
     {
         System.out.println( "Hello World this is feature one branch! FIX" );
     }
+
+    public void methodWithError() {
+        // noop
+    }
 }
+
+
