@@ -12,10 +12,4 @@ public class App
         System.out.println( "more work on base branch by other devs" );
         System.out.println( "even more work on base branch by other devs" );
     }
-
-    public void methodWithError() {
-        // noop
-    }
 }
-
-
