@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World this is feature one branch! FIX" );
-        System.out.println( "New Feature Work containing error" );
+        System.out.println( "New Feature Work with fixed error" );
     }
 }
