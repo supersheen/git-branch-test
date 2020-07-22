@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Hello World this is feature one branch! FIX" );
         System.out.println( "more work on base branch by other devs" );
+        System.out.println( "even more work on base branch by other devs" );
     }
 
     public void methodWithError() {
