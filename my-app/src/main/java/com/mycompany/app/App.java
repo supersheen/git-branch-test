@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    public static void thisiserror() {
+        System.out.println( "error branch!" );
+    }
 }
