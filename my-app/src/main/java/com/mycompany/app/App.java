@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    public static void anotherMethod() {
+        System.out.println( "work from other people" );
+    }
 }
